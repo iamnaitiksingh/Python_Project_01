@@ -56,7 +56,5 @@ def task():
         else:
             print("Invalid Input. Please select from 1 to 5.")
 
-
-# Call the function to run the task manager
 task()
 
